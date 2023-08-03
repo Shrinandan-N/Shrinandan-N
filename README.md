@@ -4,5 +4,7 @@ I'm Shrinandan and I'm a student at UC Berkeley studying Electrical Engineering 
 
 -  👨🏽‍💻 This summer I'm an intern at [Whatnot](https://www.whatnot.com/), developing internal software tools to boost automation and efficiency on the GTM team
 - 🐣 I’m currently building [Wing AI](www.wingsearch.ai), a redesigned searchbar for e-commerce marketplaces that features a personal shopping consultant. 
-- 🏫 At Berkeley, I'm a Project Manager @ Venture Strategy Solutions, an on-campus startup consulting organization
+- 🏫 At Berkeley
+  - I'm a Project Manager @ Venture Strategy Solutions, an on-campus startup consulting organization
+  - I help startups gain traction and seek funding opportunities as a Venture Assoicate @ Free Ventures
 - 📫 How to reach me: feel free to shoot an email to shrinandan [at] berkeley [dot] edu! 
