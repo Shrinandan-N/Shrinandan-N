@@ -9,6 +9,6 @@ I'm Shrinandan and I'm a student at UC Berkeley studying Electrical Engineering 
   - I help startups receive mentorship and access to funding as a **Venture Assoicate** @ [Free Ventures](https://www.freeventures.org/), Berkeley's student-run pre-seed accelerator
 - 🔨 My previous projects include:
     - [WingSearch](http://wingsearch.ai/): a redesigned searchbar for e-commerce marketplaces that features a personal shopping consultant. Won Top 10 at CalHacks 2023 AI LLM Hackathon. 
-    - Visionry AI: a wearable device and mobile app that enables visually impaired individuals to shop autonomously in grocery stores. Won [2nd Grand Award at ISEF 2021]     (https://abstracts.societyforscience.org/Home/FullAbstract?ProjectId=20899).
+    - Visionry AI: a wearable device and mobile app that enables visually impaired individuals to shop autonomously in grocery stores. Won [2nd Grand Award at ISEF 2021](https://abstracts.societyforscience.org/Home/FullAbstract?ProjectId=20899).
     - SafePaths: a mobile app that assists individuals find the safest route back home while walking. 
 - 📫 How to reach me: feel free to shoot an email to shrinandan [at] berkeley [dot] edu!
